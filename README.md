@@ -31,6 +31,7 @@
 </p>
 
 <h3 align="left">🚀 What I'm up to</h3>
+
 - Edimate - Text to video platform
 
 - LLM Research Program (coming soon...)
