@@ -30,18 +30,6 @@
 
 <h3 align="center">🚀 What I'm up to</h3>
 
-<p align="center">
-  🔭 I'm currently working on Edimate - the text to educational video platform.<br>
-  🌱 I'm currently learning Next JS<br>
-  💬 Ask me about AI Engineering, ML, Data Science, Analytics<br>
-  📫 How to reach me: harshit@wiplane.com
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dswharshit&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-
 <h3 align="center">📚 Check out my content</h3>
 <p align="center">
   📺 YouTube: <a href="https://www.youtube.com/channel/UCH-xwLTKQaABNs2QmGxK2bQ" target="_blank">AI Engineering Channel</a><br>
