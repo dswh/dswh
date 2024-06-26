@@ -28,14 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dswharshit&show_icons=true&theme=radical" alt="Harshit's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dswharshit&theme=radical" alt="Harshit's GitHub streak" />
-</p>
-
 <h3 align="center">🚀 What I'm up to</h3>
 
 <p align="center">
@@ -49,9 +41,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dswharshit&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dswharshit&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 <h3 align="center">📚 Check out my content</h3>
 <p align="center">
