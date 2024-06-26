@@ -31,6 +31,9 @@
 </p>
 
 <h3 align="left">🚀 What I'm up to</h3>
+- Edimate - Text to video platform
+- LLM Research Program (coming soon...)
+- AI powered newsletter
 
 <h3 align="left">📚 Check out my content</h3>
 <p align="left">
