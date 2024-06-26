@@ -1,6 +1,10 @@
-## Hi there 👋
 ![](./github_banner.png)
+
+---
+
 [YouTube](https://www.youtube.com/channel/UCH-xwLTKQaABNs2QmGxK2bQ) • [High Signal AI](https://highsignalai.substack.com/) • [LinkedIn](linkedin.com/in/tyagiharshit/) • [X](https://x.com/dswharshit)
+
+---
 
 Here are some ideas to get you started:
 
