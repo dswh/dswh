@@ -1,5 +1,6 @@
 ![](./github_banner.png)
-<h1 align="center">👋 Hi there, I'm Harshit Tyagi</h1>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=AI+Engineer;Data+Scientist;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
@@ -10,6 +11,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
+
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCH-xwLTKQaABNs2QmGxK2bQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
